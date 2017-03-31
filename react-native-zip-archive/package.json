@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      "react-native-zip-archive@0.0.11",
+      "/Users/haidizhilei/Desktop/Work/Fingersoft/PortalFingersoft_iPhone/ReactNative"
+    ]
+  ],
+  "_cnpm_publish_time": 1464795374686,
+  "_from": "react-native-zip-archive@0.0.11",
+  "_hasShrinkwrap": false,
+  "_id": "react-native-zip-archive@0.0.11",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-zip-archive",
+  "_nodeVersion": "4.2.6",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-zip-archive-0.0.11.tgz_1464795371934_0.8677665581926703"
+  },
+  "_npmUser": {
+    "email": "plrthink@gmail.com",
+    "name": "plrthink"
+  },
+  "_npmVersion": "3.8.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-zip-archive",
+    "raw": "react-native-zip-archive@0.0.11",
+    "rawSpec": "0.0.11",
+    "scope": null,
+    "spec": "0.0.11",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-zip-archive/-/react-native-zip-archive-0.0.11.tgz",
+  "_shasum": "047f94422deaafbf01918b89fe29c5006bcc2ae2",
+  "_shrinkwrap": null,
+  "_spec": "react-native-zip-archive@0.0.11",
+  "_where": "/Users/haidizhilei/Desktop/Work/Fingersoft/PortalFingersoft_iPhone/ReactNative",
+  "author": {
+    "email": "plrthink@gmail.com",
+    "name": "Perry Poon",
+    "url": "https://github.com/plrthink"
+  },
+  "bugs": {
+    "url": "https://github.com/plrthink/react-native-zip-archive/issues"
+  },
+  "dependencies": {
+    "es6-promisify": "^3.0.0"
+  },
+  "description": "A little wrapper on ZipArchive for react-native",
+  "devDependencies": {
+    "react-native": "^0.8.0"
+  },
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "047f94422deaafbf01918b89fe29c5006bcc2ae2",
+    "size": 52252,
+    "tarball": "http://registry.npm.taobao.org/react-native-zip-archive/download/react-native-zip-archive-0.0.11.tgz"
+  },
+  "gitHead": "1a8d6088cd4382c06630666556f67cf9ac8b5032",
+  "homepage": "https://github.com/plrthink/react-native-zip-archive#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "zip-archive",
+    "unzip"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "plrthink@gmail.com",
+      "name": "plrthink"
+    }
+  ],
+  "name": "react-native-zip-archive",
+  "optionalDependencies": {},
+  "publish_time": 1464795374686,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/plrthink/react-native-zip-archive.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.11"
+}
